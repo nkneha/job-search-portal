@@ -76,32 +76,16 @@
 
 ## Project Summary
 
-Job Search Portalis a system to handle activities related to Jobs details and services here u can add,get,update or delete a job also we used H2 as our Database
+Job Search Portal is a system to handle activities related to Jobs details and services here u can add, get, update or delete a job also we used H2 as our Database
  
   #### Features for Job Search Portal
 
 - you can Add/Create Jobs.
 - you can Get all jobs details.
 - you can Get all Job details by Job id.
-- you can Get all Job details by Title,Description,Location.
+- you can Get all Job details by Title,Description, Location.
 - you can Update specific Job details/Salary by using Job id.
 - you can Delete/Remove a Job details/Contact by Job id.
 
-
-  
-## Authors
-
-- [@hritvik-soni](https://www.github.com/hritvik-soni)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-
-## Support
-
-For support, email blah@blah.com or join our Slack channel.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
